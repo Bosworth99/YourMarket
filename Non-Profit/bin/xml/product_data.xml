@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<category catName="AboutCI">
+		<product name="One Stop">
+			<productID>0</productID>
+			<header>One Stop Shop</header>
+			<text>Take advantage of our custom design capabilities and vast network of suppliers and partners. Whatever your needs, we will build it, print it, design it or locate it for you and save you money in the process.</text>
+			<imgPath>OneStop.jpg</imgPath>
+			<urlTitle1>Contact Us</urlTitle1>
+			<urlPath1>/_content/contact_us/</urlPath1>
+			<urlTitle2>Find your Account Exective</urlTitle2>
+			<urlPath2>/_content/contact_us/find_your_account_executive.aspx</urlPath2>
+		</product>
+		<product name="No Bids">
+			<productID>1</productID>
+			<header>No Bids Required</header>
+			<text>Save time and cut costs by avoiding the formal bid process. The State of Washington allows non-profits to order direct from Correctional Industries through state contracts, so you can avoid the delay and expense of requesting bids and comparing them.</text>
+			<imgPath>NoBids.jpg</imgPath>
+			<urlTitle1>Contact Us</urlTitle1>
+			<urlPath1>/_content/contact_us/</urlPath1>
+			<urlTitle2>CI State Contracts</urlTitle2>
+			<urlPath2>/_content/general_info/state_contracts.aspx</urlPath2>
+		</product>
+		<product name="Local Economy">
+			<productID>2</productID>
+			<header>Local Economy</header>
+			<text>Everybody wins when local dollars stay local. By purchasing from local suppliers and supplying jobs, Correctional Industries contributes more than $30 million each year to Washington’s economy.</text>
+			<imgPath>LocalEconomy.jpg</imgPath>
+			<urlTitle1>Contact Us</urlTitle1>
+			<urlPath1>/_content/contact_us/</urlPath1>
+			<urlTitle2>CI Overview</urlTitle2>
+			<urlPath2>/_content/about_ci/ci_overview.aspx</urlPath2>
+		</product>
+		<product name="Offender Workers">
+			<productID>3</productID>
+			<header>Offender Workers</header>
+			<text>CI’s production and installation needs are fulfilled by offenders serving time at Washington state correctional facilities. Offenders with job skills are less likely to offend again and the wages they earn from CI defray the cost of incarceration, making the most of taxpayer dollars.</text>
+			<imgPath>OffenderWorker.jpg</imgPath>
+			<urlTitle1>Offender Re-Entry</urlTitle1>
+			<urlPath1>/_content/about_ci/offender_re-entry.aspx</urlPath1>
+			<urlTitle2>Offenders at Work</urlTitle2>
+			<urlPath2>/_content/about_ci/offenders_at_work.aspx</urlPath2>
+		</product>
+	</category>
+	<category catName="Operations">
+		<product name="Office Systems">
+			<productID>0</productID>
+			<header>Office Systems</header>
+			<text>Modular office systems, like this Volition system, are stylish and can be configured and reconfigured any way you like. Combine desks with panel systems or movable walls for extra privacy and flexibility.</text>
+			<imgPath>Office_Systems.jpg</imgPath>
+			<urlTitle1>Find your Account Exective</urlTitle1>
+			<urlPath1>/_content/contact_us/find_your_account_executive.aspx</urlPath1>
+			<urlTitle2>Office Systems</urlTitle2>
+			<urlPath2>/products_and_services/office_systems/</urlPath2>
+		</product>
+		<product name="Ergonomic Seating">
+			<productID>1</productID>
+			<header>Ergonomic Seating</header>
+			<text>Comfort and reduced strain boost job satisfaction and productivity. Ergonomic task seating from Correctional Industries, including Snap (right) and Stratus (left), accommodate any user with a multitude of settings and adjustments.</text>
+			<imgPath>Ergonomic_Seating.jpg</imgPath>
+			<urlTitle1>Stratus Seating</urlTitle1>
+			<urlPath1>/products_and_services/seating/categories.aspx?name=Stratus</urlPath1>
+			<urlTitle2>Snap Seating</urlTitle2>
+			<urlPath2>/products_and_services/seating/categories.aspx?name=Snap</urlPath2>
+		</product>
+		<product name="Indoor Signage">
+			<productID>2</productID>
+			<header>Indoor Signage</header>
+			<text>Custom engraved signs make entrances, exits and facilities easy to identify for both staff and clientele, minimizing confusion and improving traffic flow in your buildings. ADA compliant Braille signs available.</text>
+			<imgPath>Indoor_Signage.jpg</imgPath>
+			<urlTitle1>Engraving Services</urlTitle1>
+			<urlPath1>/products_and_services/engraving/</urlPath1>
+			<urlTitle2>Signage</urlTitle2>
+			<urlPath2>/products_and_services/signage/</urlPath2>
+		</product>
+	</category>
+	<category catName="Volunteer">
+		<product name="Lanyards">
+			<productID>0</productID>
+			<header>Lanyards and ID Holders</header>
+			<text>ID badges are a cost-efficient way to identify visitors or large numbers of staff. Durable lanyards are available in a variety of colors. Customize with screen printing.</text>
+			<imgPath>Lanyards_Badges.jpg</imgPath>
+			<urlTitle1>Contact Us</urlTitle1>
+			<urlPath1>/_content/contact_us/</urlPath1>
+			<urlTitle2>Screen Printing and Embroidery</urlTitle2>
+			<urlPath2>/products_and_services/screen_printing_and_embroidery/</urlPath2>
+		</product>
+		<product name="Embroidered Shirts">
+			<productID>1</productID>
+			<header>Embroidered Shirts</header>
+			<text>Volunteers and staff look professional and ready for action with custom embroidered shirts from CI. Lightweight, durable, easy to wash and comfortable, customized shirts clearly identify your crew and promote your organization.</text>
+			<imgPath>Embroidered_Shirts.jpg</imgPath>
+			<urlTitle1>Contact Us</urlTitle1>
+			<urlPath1>/_content/contact_us/</urlPath1>
+			<urlTitle2>Screen Printing and Embroidery</urlTitle2>
+			<urlPath2>/products_and_services/screen_printing_and_embroidery/</urlPath2>
+		</product>
+		<product name="Patches">
+			<productID>2</productID>
+			<header>Patches</header>
+			<text>Embroidered patches from CI stand out clearly to identify your staff and volunteers. Top-quality workmanship, free digitizing and competitive pricing make CI patches a great value.</text>
+			<imgPath>Patches.jpg</imgPath>
+			<urlTitle1>Contact Us</urlTitle1>
+			<urlPath1>/_content/contact_us/</urlPath1>
+			<urlTitle2>Screen Printing and Embroidery</urlTitle2>
+			<urlPath2>/products_and_services/screen_printing_and_embroidery/</urlPath2>
+		</product>
+	</category>
+	<category catName="Events">
+		<product name="Banners">
+			<productID>0</productID>
+			<header>Banners</header>
+			<text>Quality workmanship, competitive pricing and fast turnaround make custom banners from CI a great way to declare your message.</text>
+			<imgPath>Banner.jpg</imgPath>
+			<urlTitle1>Contact Us</urlTitle1>
+			<urlPath1>/_content/contact_us/</urlPath1>
+			<urlTitle2>Screen Printing and Embroidery</urlTitle2>
+			<urlPath2>/products_and_services/screen_printing_and_embroidery/</urlPath2>
+		</product>
+		<product name="Podiums">
+			<productID>1</productID>
+			<header>Podiums</header>
+			<text>Custom-built podiums give your events a professional and unified appearance. CI’s highly trained design staff and furniture crafters can facilitate all your custom furniture needs, including furniture with special or unusual features.</text>
+			<imgPath>Podium.jpg</imgPath>
+			<urlTitle1>Contact Us</urlTitle1>
+			<urlPath1>/_content/contact_us/</urlPath1>
+			<urlTitle2>Custom Furniture</urlTitle2>
+			<urlPath2>/products_and_services/custom_furniture/</urlPath2>
+		</product>
+		<product name="Seating">
+			<productID>2</productID>
+			<header>Stackable Seating</header>
+			<text>Stackable seating, like this Dakota Chair, turns any space into an auditorium or meeting room. Easily configure your space any way you like. Chairs store conveniently away after the event.</text>
+			<imgPath>Dakota_Seating.jpg</imgPath>
+			<urlTitle1>Seating</urlTitle1>
+			<urlPath1>/products_and_services/seating/</urlPath1>
+			<urlTitle2>Dakota Seating</urlTitle2>
+			<urlPath2>/products_and_services/seating/products.aspx?nid=8&search=dakota&category=All%20Standard%20Products</urlPath2>
+		</product>
+		<product name="Signs">
+			<productID>3</productID>
+			<header>Sandwich Board Signs</header>
+			<text>Rugged and highly visible, these portable signs are available in a variety of sizes and colors. Apply custom decals, or use removable sign blanks for increased versatility.</text>
+			<imgPath>Sandwich_Signs.jpg</imgPath>
+			<urlTitle1>Contact Us</urlTitle1>
+			<urlPath1>/_content/contact_us/</urlPath1>
+			<urlTitle2>Signage</urlTitle2>
+			<urlPath2>/products_and_services/signage/</urlPath2>
+		</product>
+		<product name="Awards">
+			<productID>4</productID>
+			<header>Awards & Plaques</header>
+			<text>Recognize contributors and achievers with beautiful high-quality awards and plaques from CI. Choose a classic design or request a custom shape unique to your organization or award category.</text>
+			<imgPath>Awards_Plaques.jpg</imgPath>
+			<urlTitle1>Contact Us</urlTitle1>
+			<urlPath1>/_content/contact_us/</urlPath1>
+			<urlTitle2>Engraving Services</urlTitle2>
+			<urlPath2>/products_and_services/engraving/</urlPath2>
+		</product>
+	</category>
+	<category catName="Fundraising">
+		<product name="Promotional Items">
+			<productID>0</productID>
+			<header>Promotional Items</header>
+			<text>Put your logo or custom design on jerseys, sweat shirts, T-shirts, hats, jackets, towels, coffee mugs, binders and more. Whatever you can imagine, we can print it.</text>
+			<imgPath>Promo_Items.jpg</imgPath>
+			<urlTitle1>Contact Us</urlTitle1>
+			<urlPath1>/_content/contact_us/</urlPath1>
+			<urlTitle2>Screen Printing and Embroidery</urlTitle2>
+			<urlPath2>/products_and_services/screen_printing_and_embroidery/</urlPath2>
+		</product>
+		<product name="Screen Printing">
+			<productID>1</productID>
+			<header>Screen Printing</header>
+			<text>Correctional Industries uses Plastisol inks that are soft and permanent to create a higher quality and more durable print. Competitive pricing with no set-up or artwork fees makes CI your best screen printing value.</text>
+			<imgPath>Screen_Printing.jpg</imgPath>
+			<urlTitle1>Contact Us</urlTitle1>
+			<urlPath1>/_content/contact_us/</urlPath1>
+			<urlTitle2>Screen Printing and Embroidery</urlTitle2>
+			<urlPath2>/products_and_services/screen_printing_and_embroidery/</urlPath2>
+		</product>
+		<product name="Folding Chairs">
+			<productID>2</productID>
+			<header>Folding Chairs & Tables</header>
+			<text>Our Switch folding tables are perfect for setting up fundraising booths or charity events in a hurry. Steel folding chairs are an economical yet durable seating solution.</text>
+			<imgPath>Folding_TableChair.jpg</imgPath>
+			<urlTitle1>Folding Tables</urlTitle1>
+			<urlPath1>/products_and_services/tables/categories.aspx?style=Folding</urlPath1>
+			<urlTitle2>Folding Chairs</urlTitle2>
+			<urlPath2>/products_and_services/seating/products.aspx?nid=10&search=folding%20chairs&category=All%20Standard%20Products</urlPath2>
+		</product>
+	</category>
+	<category catName="Charity">
+		<product name="Residential Living">
+			<productID>0</productID>
+			<header>Residential Living Furniture</header>
+			<text>Residential furniture from CI remains sturdy through many years of use. Choose from standard lines or we’ll custom design furniture for your specific needs. A great variety of upholstery and finishes available.</text>
+			<imgPath>Residential_Furniture.jpg</imgPath>
+			<urlTitle1>Custom Furniture</urlTitle1>
+			<urlPath1>/products_and_services/custom_furniture/</urlPath1>
+			<urlTitle2>Residential Living Furniture</urlTitle2>
+			<urlPath2>/products_and_services/residential_living_furniture/</urlPath2>
+		</product>
+		<product name="Lounge Furniture">
+			<productID>1</productID>
+			<header>Lounge Furniture</header>
+			<text>Overstuffed cushioning makes the Minuet Lounge Settee a comfortable addition to any community space. Our lounge seating and tables are built to endure the rigorous use.</text>
+			<imgPath>Lounge_Furniture.jpg</imgPath>
+			<urlTitle1>Minuet Seating</urlTitle1>
+			<urlPath1>/products_and_services/seating/products.aspx?nid=19&name=Minuet</urlPath1>
+			<urlTitle2>Minuet Chair</urlTitle2>
+			<urlPath2>/products_and_services/seating/products.aspx?nid=18&search=minuet&category=All%20Standard%20Products</urlPath2>
+		</product>
+		<product name="Food Services">
+			<productID>2</productID>
+			<header>Food Services</header>
+			<text>Prepared meals from CI make food service simple: main entrees, baked goods, soups, frozen meals and snack packs. Smocks, aprons, shirts and thermal meal carriers are also available.</text>
+			<imgPath>Food_Service.jpg</imgPath>
+			<urlTitle1>Garments & Linens</urlTitle1>
+			<urlPath1>/products_and_services/garments_and_linens/</urlPath1>
+			<urlTitle2></urlTitle2>
+			<urlPath2></urlPath2>
+		</product>
+		<product name="First Aid">
+			<productID>3</productID>
+			<header>First Aid & Emergency Supplies</header>
+			<text>Always be prepared with safety kits and supplies from CI. Our larger kits contain over 100 first aid, biohazard and infectious disease protection items. Or hand-pick items for a customized kit.</text>
+			<imgPath>First_Aid.jpg</imgPath>
+			<urlTitle1>Safety & Emergency</urlTitle1>
+			<urlPath1>/products_and_services/safety_and_emergency_products/</urlPath1>
+			<urlTitle2></urlTitle2>
+			<urlPath2></urlPath2>
+		</product>
+	</category>
+	<category catName="Preservation">
+		<product name="Recycle Bins">
+			<productID>0</productID>
+			<header>Recycle Bins</header>
+			<text>Make recycling convenient by placing these ergonomic and durable bins anywhere. Recycling reduces waste and expense, and it showcases your commitment to the future.</text>
+			<imgPath>Recycling_Bins.jpg</imgPath>
+			<urlTitle1>Recycling & Trash Bins</urlTitle1>
+			<urlPath1>/products_and_services/janitorial_supplies/products.aspx?nid=28&viewall=true</urlPath1>
+			<urlTitle2></urlTitle2>
+			<urlPath2></urlPath2>
+		</product>
+		<product name="Outdoor">
+			<productID>1</productID>
+			<header>Outdoor Furnishings</header>
+			<text>Keep outdoor areas attractive with weather-resistant wood or aluminum benches and tables. Many styles of barbecues and campfire rings available with an environmentally friendly powder coat.</text>
+			<imgPath>Outdoor_Furniture.jpg</imgPath>
+			<urlTitle1>Outdoor Furnishings</urlTitle1>
+			<urlPath1>/products_and_services/outdoor_furnishings/</urlPath1>
+			<urlTitle2></urlTitle2>
+			<urlPath2></urlPath2>
+		</product>
+		<product name="Signage">
+			<productID>2</productID>
+			<header>Aluminum & Redwood Signage</header>
+			<text>Beautiful custom redwood signs and highly-visible aluminum signs get your message across where you need it most. We can also refurbish your old signs to save you money.</text>
+			<imgPath>Outdoor_Signage.jpg</imgPath>
+			<urlTitle1>Contact Us</urlTitle1>
+			<urlPath1>/_content/contact_us/</urlPath1>
+			<urlTitle2>Signage</urlTitle2>
+			<urlPath2>/products_and_services/signage/</urlPath2>
+		</product>
+		<product name="Janitorial">
+			<productID>3</productID>
+			<header>Janitorial Supplies</header>
+			<text>The CorrectPac complete sanitation program offers concentrated detergents in single pack sizes that match standard container sizes. Now it’s easy to get correct portions and reduce waste.</text>
+			<imgPath>Janitorial.jpg</imgPath>
+			<urlTitle1>Janitorial Supplies</urlTitle1>
+			<urlPath1>/products_and_services/janitorial_supplies/</urlPath1>
+			<urlTitle2></urlTitle2>
+			<urlPath2></urlPath2>
+		</product>
+	</category>
+	<category catName="Outreach">
+		<product name="Files Storage">
+			<productID>0</productID>
+			<header>Files & Storage</header>
+			<text>Attractive, functional and secure, CI offers a large selection of wood and metal storage options, including the lateral shelving (right) and metal lockers (left) seen here.</text>
+			<imgPath>Files_Storage.jpg</imgPath>
+			<urlTitle1>Files & Storage</urlTitle1>
+			<urlPath1>/products_and_services/files_and_storage/</urlPath1>
+			<urlTitle2>Case Goods</urlTitle2>
+			<urlPath2>/products_and_services/case_goods/</urlPath2>
+		</product>
+		<product name="Classroom Furniture">
+			<productID>1</productID>
+			<header>Classroom Furniture</header>
+			<text>Classroom, conference room, meeting room: you need flexibility to get the most out of any space. CI’s sturdy classroom desks and chairs are designed for multiple arrangements and uses.</text>
+			<imgPath>Classroom_Furniture.jpg</imgPath>
+			<urlTitle1>Conference Seating</urlTitle1>
+			<urlPath1>/products_and_services/seating/categories.aspx?space=Conference</urlPath1>
+			<urlTitle2>Classroom Furniture</urlTitle2>
+			<urlPath2>/products_and_services/classroom_furniture/</urlPath2>
+		</product>
+		<product name="Chairs Desks">
+			<productID>2</productID>
+			<header>Student Chairs & Desks</header>
+			<text>Our Pacific (left) and Glacier (right) student chairs and desks are made to withstand heavy use. Arrange them anyway you like for the best classroom atmosphere.</text>
+			<imgPath>Student_ChairDesk.jpg</imgPath>
+			<urlTitle1>Glacier Combination Desk</urlTitle1>
+			<urlPath1>/products_and_services/classroom_furniture/products.aspx?nid=37&series=Glacier</urlPath1>
+			<urlTitle2>Pacific Student Chair</urlTitle2>
+			<urlPath2>/products_and_services/classroom_furniture/products.aspx?nid=1&series=Pacific</urlPath2>
+		</product>
+	</category>
+	<category catName="Service">
+		<product name="Custom Design">
+			<productID>0</productID>
+			<header>Custom Design</header>
+			<text>Need something unusual or have a special furnishing need? Our team of designers will work with you to create customized products to fit your need perfectly. Design services are free when you purchase products from Correctional Industries.</text>
+			<imgPath>Custom_Design.jpg</imgPath>
+			<urlTitle1>Find Your Account Exectutive</urlTitle1>
+			<urlPath1>/_content/contact_us/find_your_account_executive.aspx</urlPath1>
+			<urlTitle2>Custom Furniture</urlTitle2>
+			<urlPath2>/products_and_services/custom_furniture/</urlPath2>
+		</product>
+		<product name="Sustainable">
+			<productID>1</productID>
+			<header>Sustainable Practices</header>
+			<text>We recognize our responsibility to protect human health, the environment and natural resources. Whenever possible, Correctional Industries uses environmentally-friendly finishes and recycled wood, metal and fabrics.</text>
+			<imgPath>Sustainable.jpg</imgPath>
+			<urlTitle1>Sustainability</urlTitle1>
+			<urlPath1>/_content/highlights/sustainability.aspx</urlPath1>
+			<urlTitle2></urlTitle2>
+			<urlPath2></urlPath2>
+		</product>
+		<product name="Furniture Refurbishing">
+			<productID>2</productID>
+			<header>Furniture Refurbishing</header>
+			<text>Correctional Industries' re-upholstery and refurbishing services can breathe new life into your torn seating or other worn furnishings. Your upholstered and wood furniture will look like new at a fraction of the price.</text>
+			<imgPath>Furniture_Refurbishing.jpg</imgPath>
+			<urlTitle1>Furniture Refurbishing</urlTitle1>
+			<urlPath1>/products_and_services/furniture_refurbishing/</urlPath1>
+			<urlTitle2></urlTitle2>
+			<urlPath2></urlPath2>
+		</product>
+		<product name="Sign Refurbishing">
+			<productID>3</productID>
+			<header>Sign Refurbishing</header>
+			<text>We’ll renew your discolored or faded signs with new reflective sheeting materials. Fresh visibility at significant cost savings over new signs.</text>
+			<imgPath>Sign_Refurbishing.jpg</imgPath>
+			<urlTitle1>Sign Refurbishing</urlTitle1>
+			<urlPath1>/products_and_services/sign_refurbishing/</urlPath1>
+			<urlTitle2></urlTitle2>
+			<urlPath2></urlPath2>
+		</product>
+	</category>
+</data>

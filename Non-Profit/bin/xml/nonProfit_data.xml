@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<intro>
+		<text>Promotional Items, Garments, Embroidery, Food, Screen Printing, Furniture and more...</text>
+	</intro>
+	<content>
+		<scene name="AboutCI">		
+			<title>AboutCI</title>
+			<color>0x4a634a</color>
+			<text>
+				<navPanel>Correctional Industries is your partner in helping people and improving communities. Non-profit dollars buy more than just quality products and services when you purchase from CI.</navPanel>
+				<pageContent>
+					<mainTitle>About CI</mainTitle>
+					<titleColor>0x232323</titleColor>
+					<mainText>Correctional Industries is your partner in helping people and improving communities. Non-profit dollars buy more than just quality products and services when you purchase from CI. They contribute directly to improving lives and making communities safer. CI products and services help you feed, clothe, counsel and shelter more people; keep staff organized; recognize volunteers and raise more funds. Meanwhile your purchases help provide job skills and work experience that transform offenders in the state correctional system into safe, productive community members. There’s no way to get more value out of your budget than working together with CI.</mainText>
+					<textColor>0x232323</textColor>
+					<products>
+						<item name="One Stop">
+							<title>One Stop Shop</title>
+							<text>Take advantage of our custom design capabilities and vast network of suppliers and partners.</text>
+						</item>
+						<item name="No Bids">
+							<title>No Bids Required</title>
+							<text>Save time and cut costs by avoiding the formal bid process.</text>
+						</item>
+						<item name="Local Economy">
+							<title>Local Economy</title>
+							<text>Everybody wins when local dollars stay local.</text>
+						</item>
+						<item name="Offender Workers">
+							<title>Offender Workers</title>
+							<text>Instilling marketable job skills in Washington State offenders.</text>
+						</item>
+					</products>
+					<missionTitle>Our Mission</missionTitle>
+					<missionText>As a business, Correctional Industries is committed to maintain and expand offender work training programs which develop marketable job skills, instill and promote positive work ethics, and reduce the tax burden of corrections.</missionText>
+				</pageContent>
+			</text>
+			<library>RTL_AboutCI.swf</library>
+		</scene>
+		<scene name="Operations">
+			<title>Operations</title>
+			<color>0x727482</color>
+			<text>
+				<navPanel>Keep your staff happy and efficient with convenient office layouts and furniture from Correctional Industries. Office Systems, Ergonomic Seating and Indoor Signage...</navPanel>
+				<pageContent>
+					<mainTitle>Hands On</mainTitle>
+					<titleColor>0x4a5741</titleColor>
+					<mainText>Non-profit organizations are about people — the people you serve and the staff that serves them. Keep your staff happy and efficient with convenient office layouts and furniture from Correctional Industries. CI furniture is designed to maximize comfort and productivity while minimizing strain, enabling staff to better serve your clientele.</mainText>
+					<textColor>0xFFFFFF</textColor>
+					<products>
+						<item name="Office Systems">
+							<title>Office Systems</title>
+							<text>Modular office systems, like this Volition system, are stylish and flexible.</text>
+						</item>
+						<item name="Ergonomic Seating">
+							<title>Ergonomic Seating</title>
+							<text>Ergonomic task seating from CI accommodate any user with a multitude of settings and adjustments.</text>
+						</item>
+						<item name="Indoor Signage">
+							<title>Indoor Signage</title>
+							<text>Make exits and facitilites easy to identify with custom engraved signs.</text>
+						</item>
+					</products>
+				</pageContent>
+			</text>
+			<library>RTL_Operations.swf</library>
+		</scene>
+		<scene name="Volunteer">		
+			<title>Volunteer</title>
+			<color>0x87A273</color>
+			<text>
+				<navPanel>Coordinated uniforms, shirts and badges create a sense of unity and organization among staff and volunteers alike. Embroidered Shirts, Patches, Lanyards and ID Holders...</navPanel>
+				<pageContent>
+					<mainTitle>Getting Involved</mainTitle>
+					<titleColor>0x9f7ca1</titleColor>
+					<mainText>Volunteers are critical to the success of any non-profit organization. Recognize these important contributors as a part of your team, while making them more visible and easier to identify, with custom screen printing and embroidery products from CI. Coordinated uniforms, shirts and badges create a sense of unity and organization among staff and volunteers alike.</mainText>
+					<textColor>0x000000</textColor>
+					<products>
+						<item name="Embroidered Shirts">
+							<title>Embroidered Shirts</title>
+							<text>Clearly identify your crew and promote your organization.</text>
+						</item>
+						<item name="Patches">
+							<title>Patches</title>
+							<text>Clear identification for your staff and volunteers.</text>
+						</item>
+						<item name="Lanyards">
+							<title>Lanyards and ID Holders</title>
+							<text>Durable and available in a variety of colors.</text>
+						</item>
+					</products>
+				</pageContent>
+			</text>
+			<library>RTL_Volunteer.swf</library>
+		</scene>
+		<scene name="Events">		
+			<title>Events</title>
+			<color>0x727482</color>
+			<text>
+				<navPanel>Communicate your purpose and vision clearly with signage and supplies from Correctional Industries. Banners, Podiums, Stackable Seating and more...</navPanel>
+				<pageContent>
+					<mainTitle>Raising Awareness</mainTitle>
+					<titleColor>0xa65a3b</titleColor>
+					<mainText>From getting the word out to recognizing contributors, events are an integral part of the non-profit world. Communicate your purpose and vision clearly with signage and supplies from Correctional Industries. Create flexible, attractive assembly areas with our stylish seating, podiums and more.</mainText>
+					<textColor>0xFFFFFF</textColor>
+					<products>
+						<item name="Banners">
+							<title>Banners</title>
+							<text>Quality workmanship, competitive pricing and fast turnaround.</text>
+						</item>
+						<item name="Podiums">
+							<title>Podiums</title>
+							<text>Give your events a professional and unified appearance.</text>
+						</item>
+						<item name="Seating">
+							<title>Stackable Seating</title>
+							<text>Turn any space into an auditorium or meeting room.</text>
+						</item>
+						<item name="Signs">
+							<title>Sandwich Board Signs</title>
+							<text>Available in a variety of sizes and colors.</text>
+						</item>
+						<item name="Awards">
+							<title>Awards & Plaques</title>
+							<text>Recognize contributors and achievers.</text>
+						</item>
+					</products>
+				</pageContent>	
+			</text>
+			<library>RTL_Events.swf</library>
+		</scene>
+		<scene name="Fundraising">	
+			<title>Fundraising</title>
+			<color>0x3e475f</color>
+			<text>
+				<navPanel>Fundraising is easier than ever with customized promotional items and food products from CI. Promotional Items, Screen Printing and Folding Chairs...</navPanel>
+				<pageContent>
+					<mainTitle>Support the Cause</mainTitle>
+					<titleColor>0x4a5741</titleColor>
+					<mainText>Fundraising is easier than ever with customized promotional items and food products from Correctional Industries. Resell individually wrapped baked goods and logo apparel , or give away as fundrasing incentives. We can reproduce any logo or image, or even custom design one to suit your unique needs.</mainText>
+					<textColor>0xFFFFFF</textColor>
+					<products>
+						<item name="Promotional Items">
+							<title>Promotional Items</title>
+							<text>Whatever you can imagine, we can print it.</text>
+						</item>
+						<item name="Screen Printing">
+							<title>Screen Printing</title>
+							<text>High quality, durable prints, competitive priced.</text>
+						</item>
+						<item name="Folding Chairs">
+							<title>Folding Chairs & Tables</title>
+							<text>Set up fundraising booths or charity events in a hurry.</text>
+						</item>
+					</products>
+				</pageContent>
+			</text>
+			<library>RTL_Fundraising.swf</library>
+		</scene>
+		<scene name="Charity">		
+			<title>Charity</title>
+			<color>0x9E8781</color>
+			<text>
+				<navPanel>When you need to be there for others, Correctional Industries is here for you. Mattresses & Linens, Residential Living Furniture, Food Services, First Aid and more...
+				</navPanel>
+				<pageContent>
+					<mainTitle>Helping Hands</mainTitle>
+					<titleColor>0x640010</titleColor>
+					<mainText>When you need to be there for others, CI is here for you. Whether your work includes disaster relief, residential facilities for special populations, emergency shelters, or temporary lodging for displaced families, CI has your needs covered. We offer a wide range of options to keep relief efforts stocked with fresh, clean clothing; food pantries filled with nutritious meals; and shelters furnished with sturdy beds and supplies.</mainText>
+					<textColor>0xFFFFFF</textColor>
+					<products>
+						<item name="Residential Living">
+							<title>Residential Living Furniture</title>
+							<text>Residential furniture from CI remains sturdy through many years of use.</text>
+						</item>
+						<item name="Lounge Furniture">
+							<title>Lounge Furniture</title>
+							<text>Make the most of your community spaces.</text>
+						</item>
+						<item name="Food Services">
+							<title>Food Services</title>
+							<text>Prepared meals from CI make food service simple.</text>
+						</item>
+						<item name="First Aid">
+							<title>First Aid & Emergency Supplies</title>
+							<text>Always be prepared with safety kits and supplies from CI.</text>
+						</item>
+					</products>
+				</pageContent>
+			</text>
+			<library>RTL_Charity.swf</library>
+		</scene>
+		<scene name="Preservation">	
+			<title>Preservation</title>
+			<color>0x4a634a</color>
+			<text>
+				<navPanel>CI offers a variety of products and services that allow you to reduce, reuse and recycle! Recycling Bins, Outdoor Furnishings, Janitorial Supplies and more..
+				</navPanel>
+				<pageContent>
+					<mainTitle>Thinking Green</mainTitle>
+					<titleColor>0x757d6a</titleColor>
+					<mainText>The environment concerns everyone. CI offers a variety of products and services that allow you to reduce, reuse and recycle. Minimize your foot print with environmentally friendly products, recycling resources and refurbishing services. Preserve the beauty of outdoor areas with corrosion-resistant furniture and signs. Improve lives and save the Earth.</mainText>
+					<textColor>0xFFFFFF</textColor>
+					<products>
+						<item name="Recycle Bins">
+							<title>Recycle Bins</title>
+							<text>Facilitate recycling by placing these ergonomic and durable bins anywhere.</text>
+						</item>
+						<item name="Outdoor">
+							<title>Outdoor Furnishings</title>
+							<text>Keep outdoor areas attractive with weather-resistant benches and tables.</text>
+						</item>
+						<item name="Signage">
+							<title>Aluminum & Redwood Signage</title>
+							<text>Get your message across where you need it most.</text>
+						</item>
+						<item name="Janitorial">
+							<title>Janitorial Supplies</title>
+							<text>The CorrectPac complete sanitation program.</text>
+						</item>
+					</products>
+				</pageContent>
+			</text>
+			<library>RTL_Preservation.swf</library>
+		</scene>
+		<scene name="Outreach">		
+			<title>Outreach</title>
+			<color>0xA5752E</color>
+			<text>
+				<navPanel>You empower people. We empower you... with organizational tools and sturdy, flexible classroom furniture that fits your needs and your style. Files & Storage, Classroom Furniture and more...
+				</navPanel>
+				<pageContent>
+					<mainTitle>Teaching Others</mainTitle>
+					<titleColor>0x2f4452</titleColor>
+					<mainText>You empower people. We empower you ... with organizational tools and sturdy, flexible classroom furniture that fits your needs and your style. Stackable chairs, lightweight tables, versatile desks and flexible filing systems make it easy to arrange a room for the best results. Focus on your work, not your furniture.</mainText>
+					<textColor>0xFFFFFF</textColor>
+					<products>
+						<item name="Files Storage">
+							<title>Files & Storage</title>
+							<text>CI offers a large selection of wood and metal storage options.</text>
+						</item>
+						<item name="Classroom Furniture">
+							<title>Classroom Furniture</title>
+							<text>Flexible and durable - get the most out of any space.</text>
+						</item>
+						<item name="Chairs Desks">
+							<title>Student Chairs & Desks</title>
+							<text>Our student chairs and desks are made to withstand heavy use.</text>
+						</item>
+					</products>
+				</pageContent>
+			</text>
+			<library>RTL_Outreach.swf</library>
+		</scene>
+		<scene name="Service">		
+			<title>Service</title>
+			<color>0x4a634a</color>
+			<text>
+				<navPanel>From design to installation, Correctional Industries is committed to providing quality products and services as well as exceptional customer care.</navPanel>
+				<pageContent>
+					<mainTitle>Quality Service</mainTitle>
+					<titleColor>0x232323</titleColor>
+					<mainText>Correctional Industries is committed to providing quality products and services as well as exceptional customer care. From design to installation, you’ll find that our highly knowledgeable staff is quick to respond and ready to work with you to meet budget and project requirements. At the end of the day, we hope you’ll be happy with every aspect of the products and services you receive, including workmanship, durability, design, pricing and customer service.</mainText>
+					<textColor>0x232323</textColor>
+					<products>
+						<item name="Custom Design">
+							<title>Custom Design</title>
+							<text>Customized products to fit your need perfectly.</text>
+						</item>
+						<item name="Sustainable">
+							<title>Sustainable Practices</title>
+							<text>Environmentally-friendly finishes and recycled wood, metal and fabrics.</text>
+						</item>
+						<item name="Furniture Refurbishing">
+							<title>Furniture Refurbishing</title>
+							<text>Breathe new life into your torn seating or other worn furnishings.</text>
+						</item>
+						<item name="Sign Refurbishing">
+							<title>Sign Refurbishing</title>
+							<text>A significant cost savings over new signs.</text>
+						</item>
+					</products>
+				</pageContent>
+			</text>
+			<library>RTL_Service.swf</library>
+		</scene>
+	</content>
+</data>
